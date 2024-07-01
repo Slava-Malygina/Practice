@@ -1,0 +1,4 @@
+pip install pyinstaller
+pip install opencv-python
+pyinstaller PythonPrep.py
+PythonPrep.exe
